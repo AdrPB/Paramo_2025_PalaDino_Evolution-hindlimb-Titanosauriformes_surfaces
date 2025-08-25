@@ -10,4 +10,4 @@ Hindlimb_atlas_lm.pts - hindlimb atlas template landmark coordinates
 Hindlimb_atlas_surfaceladks.obj - decimated quadratic hindlimb atlas template mesh for the vertex-to-surface-landmark conversion workflow
 Paramo etal_Appendix_C_phylotrees.tre - phylogenetic trees in Newik format used in this study
 
-Paramo_PalaDino_Anexo D_code.R - R code for running the analyses
+Paramo_PalaDino_Appendix_C_code.R - R code for running the analyses
